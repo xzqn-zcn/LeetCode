@@ -1,14 +1,15 @@
 # LeetCode
 # 解决方案
-> 全部题目：8
+> 全部题目：9
 > - 🟩 3
-> - 🟨 5
+> - 🟨 6
 > - 🟥 0
 
 |题目|难度|解答|
 |---|---|---|
 [1492. n 的第 k 个因子](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo130.java)|🟨|[Java](Text_likou/src/com/xzqn/likou7/demo130.java)|
 [1550. 存在连续三个奇数的数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo128.java)|🟩|[Java](Text_likou/src/com/xzqn/likou7/demo128.java)|
+[2109. 向字符串添加空格](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo124.java)|🟨|[Java](Text_likou/src/com/xzqn/likou7/demo124.java)|
 [2348. 全 0 子数组的数目](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo125.java)|🟨|[Java](Text_likou/src/com/xzqn/likou7/demo125.java)|
 [2352. 相等行列对](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo134.java)|🟨|[Java](Text_likou/src/com/xzqn/likou7/demo134.java)|
 [2414. 最长的字母序连续子字符串的长度](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo127.java)|🟨|[Java](Text_likou/src/com/xzqn/likou7/demo127.java)|
