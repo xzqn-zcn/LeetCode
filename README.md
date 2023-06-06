@@ -7,6 +7,7 @@
 
 |题目|难度|解答|
 |---|---|---|
+[1324. 竖直打印单词](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo121.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo121.java)|
 [1492. n 的第 k 个因子](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo130.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo130.java)|
 [1550. 存在连续三个奇数的数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo128.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo128.java)|
 [2109. 向字符串添加空格](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo124.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo124.java)|
