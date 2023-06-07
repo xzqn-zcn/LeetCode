@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：77
-> - 🟩 52
+> 全部题目：78
+> - 🟩 53
 > - 🟨 24
 > - 🟥 1
 
@@ -20,6 +20,7 @@
 [342. 4的幂](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo106.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo106.java)|
 [345. 反转字符串中的元音字母](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo78.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo78.java)|
 [389. 找不同](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo88.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo88.java)|
+[507. 完美数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo54.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo54.java)|
 [509. 斐波那契数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo101.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo101.java)|
 [605. 种花问题](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo76.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo76.java)|
 [921. 使括号有效的最少添加](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo118.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo118.java)|
