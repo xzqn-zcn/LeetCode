@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：18
-> - 🟩 5
+> 全部题目：19
+> - 🟩 6
 > - 🟨 13
 > - 🟥 0
 
@@ -9,6 +9,7 @@
 |---|---|---|
 [1. 两数之和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo135.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo135.java)|
 [921. 使括号有效的最少添加](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo118.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo118.java)|
+[1281. 整数的各位积和之差](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo115.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo115.java)|
 [1324. 竖直打印单词](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo117.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo121.java)|
 [1441. 用栈操作构建数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo121.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo117.java)|
 [1460. 通过翻转子数组使两个数组相等](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo116.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo116.java)|
