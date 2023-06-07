@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：57
-> - 🟩 36
+> 全部题目：58
+> - 🟩 37
 > - 🟨 20
 > - 🟥 1
 
@@ -36,6 +36,7 @@
 [1492. n 的第 k 个因子](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo130.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo130.java)|
 [1550. 存在连续三个奇数的数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo128.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo128.java)|
 [1662. 检查两个字符串数组是否相等](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo108.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo108.java)|
+[1768. 交替合并字符串](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo75.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo75.java)|
 [1913. 两个数对之间的最大乘积差](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo114.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo114.java)|
 [2043. 简易银行系统](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo119.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo119.java)|
 [2109. 向字符串添加空格](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo124.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo124.java)|
