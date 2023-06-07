@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：48
-> - 🟩 29
+> 全部题目：49
+> - 🟩 30
 > - 🟨 19
 > - 🟥 0
 
@@ -54,5 +54,6 @@
 [剑指 Offer II 004. 只出现一次的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo92.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo92.java)|
 [剑指 Offer 05. 替换空格](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo86.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo86.java)|
 [剑指 Offer 16. 数值的整数次方](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo93.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo93.java)|
+[剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo83.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo83.java)|
 [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo95.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo95.java)|
 
