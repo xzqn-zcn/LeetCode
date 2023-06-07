@@ -1,8 +1,8 @@
 # LeetCode
 # 解决方案
-> 全部题目：73
+> 全部题目：74
 > - 🟩 49
-> - 🟨 23
+> - 🟨 24
 > - 🟥 1
 
 |题目|难度|解答|
@@ -77,6 +77,7 @@
 [剑指 Offer 16. 数值的整数次方](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo93.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo93.java)|
 [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo83.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo83.java)|
 [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo95.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo95.java)|
+[剑指 Offer 64. 求1+2+…+n](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo58.java)|🟨|[☕](Text_likou/src/com/xzqn/likou3/demo58.java)|
 [面试题 01.02. 判定是否互为字符重排](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo100.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo100.java)|
 [面试题 01.06. 字符串压缩](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo66.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo66.java)|
 [面试题 01.09. 字符串轮转](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo71.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo71.java)|
