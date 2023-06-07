@@ -1,13 +1,14 @@
 # LeetCode
 # 解决方案
-> 全部题目：27
-> - 🟩 14
+> 全部题目：28
+> - 🟩 15
 > - 🟨 13
 > - 🟥 0
 
 |题目|难度|解答|
 |---|---|---|
 [1. 两数之和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo135.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo135.java)|
+[342. 4的幂](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo106.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo106.java)|
 [921. 使括号有效的最少添加](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo118.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo118.java)|
 [1281. 整数的各位积和之差](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo115.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo115.java)|
 [1295. 统计位数为偶数的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo113.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo113.java)|
