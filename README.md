@@ -2,7 +2,7 @@
 # 解决方案
 > 全部题目：49
 > - 🟩 30
-> - 🟨 19
+> - 🟨 20
 > - 🟥 0
 
 |题目|难度|解答|
@@ -10,6 +10,7 @@
 [1. 两数之和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo135.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo135.java)|
 [11. 盛最多水的容器](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo85.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo85.java)|
 [33. 搜索旋转排序数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo90.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo90.java)|
+[80. 删除有序数组中的重复项 II](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo82.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo82.java)|
 [204. 计数质数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo91.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo91.java)|
 [215. 数组中的第K个最大元素](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo84.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo84.java)|
 [258. 各位相加](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo96.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo96.java)|
