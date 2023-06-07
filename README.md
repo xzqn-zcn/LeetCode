@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：51
-> - 🟩 31
+> 全部题目：52
+> - 🟩 32
 > - 🟨 20
 > - 🟥 0
 
@@ -58,4 +58,4 @@
 [剑指 Offer 16. 数值的整数次方](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo93.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo93.java)|
 [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo83.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo83.java)|
 [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo95.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo95.java)|
-
+[面试题 01.02. 判定是否互为字符重排](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo100.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo100.java)|
