@@ -12,6 +12,7 @@
 [1281. 整数的各位积和之差](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo115.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo115.java)|
 [1295. 统计位数为偶数的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo113.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo113.java)|
 [1324. 竖直打印单词](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo117.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo121.java)|
+[1351. 统计有序矩阵中的负数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo112.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo112.java)|
 [1441. 用栈操作构建数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo121.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo117.java)|
 [1460. 通过翻转子数组使两个数组相等](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo116.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo116.java)|
 [1492. n 的第 k 个因子](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo130.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo130.java)|
