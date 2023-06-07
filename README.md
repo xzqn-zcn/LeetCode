@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：49
-> - 🟩 30
+> 全部题目：51
+> - 🟩 31
 > - 🟨 20
 > - 🟥 0
 
@@ -52,6 +52,7 @@
 [2644. 找出可整除性得分最大的整数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo98.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo98.java)|
 [2657. 找到两个数组的前缀公共数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo123.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo123.java)|
 [2678. 老人的数目](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo87.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo87.java)|
+[6430. 找出转圈游戏输家](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo81.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo81.java)|
 [剑指 Offer II 004. 只出现一次的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo92.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo92.java)|
 [剑指 Offer 05. 替换空格](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo86.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo86.java)|
 [剑指 Offer 16. 数值的整数次方](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo93.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo93.java)|
