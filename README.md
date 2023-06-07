@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：74
-> - 🟩 49
+> 全部题目：75
+> - 🟩 50
 > - 🟨 24
 > - 🟥 1
 
@@ -69,6 +69,7 @@
 [2544. 交替数字和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo104.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo104.java)|
 [2586. 统计范围内的元音字符串数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo99.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo99.java)|
 [2644. 找出可整除性得分最大的整数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo98.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo98.java)|
+[2652. 倍数求和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo57.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo57.java)|
 [2657. 找到两个数组的前缀公共数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo123.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo123.java)|
 [2678. 老人的数目](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo87.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo87.java)|
 [6430. 找出转圈游戏输家](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo81.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo81.java)|
