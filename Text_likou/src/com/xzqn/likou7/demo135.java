@@ -1,8 +1,5 @@
 package com.xzqn.likou7;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class demo135 {
     /**
      * 1. 两数之和
