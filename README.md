@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：71
-> - 🟩 47
+> 全部题目：72
+> - 🟩 48
 > - 🟨 23
 > - 🟥 1
 
@@ -42,6 +42,7 @@
 [1492. n 的第 k 个因子](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo130.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo130.java)|
 [1550. 存在连续三个奇数的数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo128.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo128.java)|
 [1662. 检查两个字符串数组是否相等](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo108.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo108.java)|
+[1684. 统计一致字符串的数目](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo60.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo60.java)|
 [1732. 找到最高海拔](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo72.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo72.java)|
 [1768. 交替合并字符串](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo75.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo75.java)|
 [1832. 判断句子是否为全字母句](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo65.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo65.java)|
