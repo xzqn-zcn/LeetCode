@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：24
-> - 🟩 11
+> 全部题目：25
+> - 🟩 12
 > - 🟨 13
 > - 🟥 0
 
@@ -15,6 +15,7 @@
 [1351. 统计有序矩阵中的负数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo112.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo112.java)|
 [1441. 用栈操作构建数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo121.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo117.java)|
 [1450. 在既定时间做作业的学生人数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo111.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo111.java)|
+[1455. 检查单词是否为句中其他单词的前缀](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo109.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo109.java)|
 [1460. 通过翻转子数组使两个数组相等](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo116.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo116.java)|
 [1464. 数组中两元素的最大乘积](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo110.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo110.java)|
 [1492. n 的第 k 个因子](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo130.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo130.java)|
