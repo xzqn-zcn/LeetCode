@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：28
-> - 🟩 15
+> 全部题目：29
+> - 🟩 16
 > - 🟨 13
 > - 🟥 0
 
@@ -34,4 +34,5 @@
 [2443. 反转之后的数字和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo122.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo122.java)|
 [2460. 对数组执行操作](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo133.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo133.java)|
 [2465. 不同的平均值数目](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo131.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo131.java)|
+[2520. 统计能整除数字的位数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo105.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo105.java)|
 [2657. 找到两个数组的前缀公共数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo123.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo123.java)|
