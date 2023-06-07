@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：43
-> - 🟩 26
+> 全部题目：44
+> - 🟩 27
 > - 🟨 17
 > - 🟥 0
 
@@ -12,6 +12,7 @@
 [204. 计数质数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo91.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo91.java)|
 [258. 各位相加](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo96.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo96.java)|
 [342. 4的幂](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo106.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo106.java)|
+[389. 找不同](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo88.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo88.java)|
 [509. 斐波那契数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo101.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo101.java)|
 [921. 使括号有效的最少添加](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo118.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo118.java)|
 [1137. 第 N 个泰波那契数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo102.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo102.java)|
