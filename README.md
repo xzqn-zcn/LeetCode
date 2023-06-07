@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：31
-> - 🟩 18
+> 全部题目：32
+> - 🟩 19
 > - 🟨 13
 > - 🟥 0
 
@@ -10,6 +10,7 @@
 [1. 两数之和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo135.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo135.java)|
 [342. 4的幂](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo106.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo106.java)|
 [921. 使括号有效的最少添加](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo118.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo118.java)|
+[1137. 第 N 个泰波那契数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo102.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo102.java)|
 [1281. 整数的各位积和之差](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo115.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo115.java)|
 [1295. 统计位数为偶数的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo113.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo113.java)|
 [1324. 竖直打印单词](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo117.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo121.java)|
