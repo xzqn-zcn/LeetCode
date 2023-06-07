@@ -1,13 +1,14 @@
 # LeetCode
 # 解决方案
-> 全部题目：15
+> 全部题目：16
 > - 🟩 4
-> - 🟨 11
+> - 🟨 12
 > - 🟥 0
 
 |题目|难度|解答|
 |---|---|---|
 [1. 两数之和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo135.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo135.java)|
+[921. 使括号有效的最少添加](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo118.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo118.java)|
 [1324. 竖直打印单词](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo121.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo121.java)|
 [1492. n 的第 k 个因子](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo130.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo130.java)|
 [1550. 存在连续三个奇数的数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo128.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo128.java)|
