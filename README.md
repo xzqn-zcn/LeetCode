@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：34
-> - 🟩 21
+> 全部题目：35
+> - 🟩 22
 > - 🟨 13
 > - 🟥 0
 
@@ -40,4 +40,5 @@
 [2540. 最小公共值](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo103.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo103.java)|
 [2544. 交替数字和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo104.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo104.java)|
 [2586. 统计范围内的元音字符串数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo99.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo99.java)|
+[2644. 找出可整除性得分最大的整数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo98.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo98.java)|
 [2657. 找到两个数组的前缀公共数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo123.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo123.java)|
