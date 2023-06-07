@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：70
-> - 🟩 46
+> 全部题目：71
+> - 🟩 47
 > - 🟨 23
 > - 🟥 1
 
@@ -38,6 +38,7 @@
 [1460. 通过翻转子数组使两个数组相等](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo116.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo116.java)|
 [1464. 数组中两元素的最大乘积](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo110.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo110.java)|
 [1470. 重新排列数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo62.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo62.java)|
+[1486. 数组异或操作](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo61.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo61.java)|
 [1492. n 的第 k 个因子](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo130.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo130.java)|
 [1550. 存在连续三个奇数的数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo128.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo128.java)|
 [1662. 检查两个字符串数组是否相等](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo108.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo108.java)|
