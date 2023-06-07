@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：38
-> - 🟩 25
+> 全部题目：39
+> - 🟩 26
 > - 🟨 13
 > - 🟥 0
 
@@ -35,6 +35,7 @@
 [2414. 最长的字母序连续子字符串的长度](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo127.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo127.java)|
 [2442. 反转之后不同整数的数目](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo126.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo126.java)|
 [2443. 反转之后的数字和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo122.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo122.java)|
+[2446. 判断两个事件是否存在冲突](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo94.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo94.java)|
 [2455. 可被三整除的偶数的平均值](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo97.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo97.java)|
 [2460. 对数组执行操作](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo133.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo133.java)|
 [2465. 不同的平均值数目](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo131.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo131.java)|
