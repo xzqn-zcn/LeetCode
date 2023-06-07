@@ -1,8 +1,8 @@
 # LeetCode
 # 解决方案
-> 全部题目：14
+> 全部题目：15
 > - 🟩 4
-> - 🟨 10
+> - 🟨 11
 > - 🟥 0
 
 |题目|难度|解答|
@@ -11,6 +11,7 @@
 [1324. 竖直打印单词](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo121.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo121.java)|
 [1492. n 的第 k 个因子](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo130.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo130.java)|
 [1550. 存在连续三个奇数的数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo128.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo128.java)|
+[2043. 简易银行系统](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo119.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo119.java)|
 [2109. 向字符串添加空格](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo124.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo124.java)|
 [ 2150. 找出数组中的所有孤独数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo120.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo120.java)|
 [2348. 全 0 子数组的数目](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo125.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo125.java)|
