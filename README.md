@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：26
-> - 🟩 13
+> 全部题目：27
+> - 🟩 14
 > - 🟨 13
 > - 🟥 0
 
@@ -13,6 +13,7 @@
 [1295. 统计位数为偶数的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo113.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo113.java)|
 [1324. 竖直打印单词](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo117.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo121.java)|
 [1351. 统计有序矩阵中的负数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo112.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo112.java)|
+[1394. 找出数组中的幸运数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo107.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo107.java)|
 [1441. 用栈操作构建数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo121.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo117.java)|
 [1450. 在既定时间做作业的学生人数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo111.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo111.java)|
 [1455. 检查单词是否为句中其他单词的前缀](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo109.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo109.java)|
