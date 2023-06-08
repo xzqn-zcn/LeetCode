@@ -1,8 +1,8 @@
 # LeetCode
 # 解决方案
-> 全部题目：104
+> 全部题目：105
 > - 🟩 76
-> - 🟨 27
+> - 🟨 28
 > - 🟥 1
 
 |题目|难度|解答|
@@ -20,6 +20,7 @@
 [88. 合并两个有序数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo29.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo29.java)|
 [121. 买卖股票的最佳时机](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo30.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo30.java)|
 [125. 验证回文串](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo39.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo39.java)|
+[162. 寻找峰值I](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo26.java)|🟨|[☕](Text_likou/src/com/xzqn/likou2/demo26.java)|
 [169. 多数元素](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo35.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo35.java)|
 [191. 位1的个数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo43.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo43.java)|
 [204. 计数质数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo91.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo91.java)|
