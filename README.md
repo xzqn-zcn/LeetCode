@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：125
-> - 🟩 91
+> 全部题目：126
+> - 🟩 92
 > - 🟨 31
 > - 🟥 3
 
@@ -55,6 +55,7 @@
 [509. 斐波那契数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo101.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo101.java)|
 [605. 种花问题](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo76.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo76.java)|
 [724. 寻找数组的中心下标](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo4.java)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo4.java)|
+[771. 宝石与石头](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo3.java)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo3.java)|
 [921. 使括号有效的最少添加](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo118.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo118.java)|
 [977. 有序数组的平方](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo21.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo21.java)|
 [1010. 总持续时间可被 60 整除的歌曲](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo67.java)|🟨|[☕](Text_likou/src/com/xzqn/likou4/demo67.java)|
