@@ -1,8 +1,8 @@
 # LeetCode
 # 解决方案
-> 全部题目：123
+> 全部题目：124
 > - 🟩 90
-> - 🟨 30
+> - 🟨 31
 > - 🟥 3
 
 |题目|难度|解答|
@@ -16,6 +16,7 @@
 [26. 删除有序数组中的重复项](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo13.java)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo13.java)|
 [27. 移除元素](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo8.java)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo8.java)|
 [33. 搜索旋转排序数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo90.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo90.java)|
+[34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo5.java)|🟨|[☕](Text_likou/src/com/xzqn/likou/demo5.java)|
 [41. 缺失的第一个正数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo80.java)|🟥|[☕](Text_likou/src/com/xzqn/likou4/demo80.java)|
 [53. 最大子数组和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo51.java)|🟨|[☕](Text_likou/src/com/xzqn/likou3/demo51.java)|
 [58. 最后一个单词的长度](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo36.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo36.java)|
