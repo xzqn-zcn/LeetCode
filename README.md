@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：96
-> - 🟩 68
+> 全部题目：97
+> - 🟩 69
 > - 🟨 27
 > - 🟥 1
 
@@ -61,6 +61,7 @@
 [1812. 判断国际象棋棋盘中一个格子的颜色](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo56.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo56.java)|
 [1832. 判断句子是否为全字母句](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo65.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo65.java)|
 [1913. 两个数对之间的最大乘积差](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo114.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo114.java)|
+[2011. 执行操作后的变量值](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo34.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo34.java)|
 [2043. 简易银行系统](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo119.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo119.java)|
 [2109. 向字符串添加空格](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo124.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo124.java)|
 [2114. 句子中的最多单词数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo63.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo63.java)|
