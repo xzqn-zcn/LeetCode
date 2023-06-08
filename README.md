@@ -1,8 +1,8 @@
 # LeetCode
 # 解决方案
-> 全部题目：128
+> 全部题目：129
 > - 🟩 93
-> - 🟨 32
+> - 🟨 33
 > - 🟥 3
 
 |题目|难度|解答|
@@ -111,6 +111,7 @@
 [2540. 最小公共值](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo103.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo103.java)|
 [2544. 交替数字和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo104.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo104.java)|
 [2586. 统计范围内的元音字符串数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo99.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo99.java)|
+[2611. 老鼠和奶酪](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo136.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo136.java)|
 [2644. 找出可整除性得分最大的整数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo98.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo98.java)|
 [2652. 倍数求和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo57.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo57.java)|
 [2656. K 个元素的最大和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo55.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo55.java)|
