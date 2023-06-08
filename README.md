@@ -1,14 +1,15 @@
 # LeetCode
 # 解决方案
-> 全部题目：118
+> 全部题目：119
 > - 🟩 87
-> - 🟨 29
+> - 🟨 30
 > - 🟥 2
 
 |题目|难度|解答|
 |---|---|---|
 [1. 两数之和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo135.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo135.java)|
 [3. 无重复字符的最长子串](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo68.java)|🟨|[☕](Text_likou/src/com/xzqn/likou4/demo68.java)|
+[7. 整数反转](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo12.java)|🟨|[☕](Text_likou/src/com/xzqn/likou/demo12.java)|
 [11. 盛最多水的容器](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo85.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo85.java)|
 [20. 有效的括号](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo20.java)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo20.java)|
 [26. 删除有序数组中的重复项](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo13.java)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo13.java)|
