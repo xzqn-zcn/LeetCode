@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：84
-> - 🟩 58
+> 全部题目：85
+> - 🟩 59
 > - 🟨 25
 > - 🟥 1
 
@@ -91,3 +91,4 @@
 [面试题 01.06. 字符串压缩](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo66.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo66.java)|
 [面试题 01.09. 字符串轮转](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo71.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo71.java)|
 [面试题 17.04. 消失的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo48.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo48.java)|
+[面试题 17.10. 主要元素](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo46.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo46.java)|
