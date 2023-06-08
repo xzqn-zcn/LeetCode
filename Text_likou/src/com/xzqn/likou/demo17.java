@@ -18,14 +18,10 @@ public class demo17 {
     }
 
     public static int singleNumber(int[] nums) {
-        Arrays.sort(nums);
-        int i, j;
-        for (i = 0, j = 1; j < nums.length - 1; i += 2, j += 2) {
-            if (nums[i] != nums[j]) {
-                return nums[i];
-            }
+       int number = 0;
+        for (int num : nums) {
+            number ^= num;
         }
-
-        return nums[j - 1];
+        return number;
     }
 }
