@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：97
-> - 🟩 69
+> 全部题目：98
+> - 🟩 70
 > - 🟨 27
 > - 🟥 1
 
@@ -71,6 +71,7 @@
 [2351. 第一个出现两次的字母](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo64.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo64.java)|
 [2352. 相等行列对](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo134.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo134.java)|
 [2414. 最长的字母序连续子字符串的长度](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo127.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo127.java)|
+[2418. 按身高排序](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo33.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo33.java)|
 [2427. 公因子的数目](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo59.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo59.java)|
 [2441. 与对应负数同时存在的最大正整数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo79.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo79.java)|
 [2442. 反转之后不同整数的数目](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo126.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo126.java)|
