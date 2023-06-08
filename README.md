@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：95
-> - 🟩 67
+> 全部题目：96
+> - 🟩 68
 > - 🟨 27
 > - 🟥 1
 
@@ -18,6 +18,7 @@
 [75. 颜色分类](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo44.java)|🟨|[☕](Text_likou/src/com/xzqn/likou3/demo44.java)|
 [80. 删除有序数组中的重复项 II](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo82.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo82.java)|
 [125. 验证回文串](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo39.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo39.java)|
+[169. 多数元素](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo35.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo35.java)|
 [191. 位1的个数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo43.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo43.java)|
 [204. 计数质数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo91.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo91.java)|
 [215. 数组中的第K个最大元素](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo84.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo84.java)|
