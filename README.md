@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：108
-> - 🟩 77
+> 全部题目：109
+> - 🟩 78
 > - 🟨 29
 > - 🟥 2
 
@@ -36,6 +36,7 @@
 [342. 4的幂](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo106.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo106.java)|
 [345. 反转字符串中的元音字母](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo78.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo78.java)|
 [349. 两个数组的交集](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo24.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo24.java)|
+[367. 有效的完全平方数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo22.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo22.java)|
 [389. 找不同](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo88.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo88.java)|
 [507. 完美数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo54.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo54.java)|
 [509. 斐波那契数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo101.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo101.java)|
