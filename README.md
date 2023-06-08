@@ -32,6 +32,7 @@
 [151. 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/)|🟨|[☕](Text_likou/src/com/xzqn/likou2/demo23.java)|
 [154. 寻找旋转排序数组中的最小值 II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/)|🟥|[☕](Text_likou/src/com/xzqn/likou2/demo25.java)|
 [162. 寻找峰值I](https://leetcode.cn/problems/find-peak-element/)|🟨|[☕](Text_likou/src/com/xzqn/likou2/demo26.java)|
+[167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/)|🟨|[☕](Text_likou/src/com/xzqn/likou2/demo32.java)|
 [169. 多数元素](https://leetcode.cn/problems/majority-element/)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo35.java)|
 [191. 位1的个数](https://leetcode.cn/problems/number-of-1-bits/)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo43.java)|
 [204. 计数质数](https://leetcode.cn/problems/count-primes/)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo91.java)|
@@ -119,21 +120,20 @@
 [2657. 找到两个数组的前缀公共数组](https://leetcode.cn/problems/find-the-prefix-common-array-of-two-arrays/)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo123.java)|
 [2678. 老人的数目](https://leetcode.cn/problems/number-of-senior-citizens/)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo87.java)|
 [6430. 找出转圈游戏输家](https://leetcode.cn/problems/find-the-losers-of-the-circular-game/)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo81.java)|
-[剑指 Offer 03. 数组中重复的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo28.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo28.java)|
-[剑指 Offer II 004. 只出现一次的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo92.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo92.java)|
-[剑指 Offer 05. 替换空格](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo86.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo86.java)|
-[剑指 Offer 16. 数值的整数次方](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo93.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo93.java)|
-[剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo83.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo83.java)|
-[剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo95.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo95.java)|
-[剑指 Offer 64. 求1+2+…+n](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo58.java)|🟨|[☕](Text_likou/src/com/xzqn/likou3/demo58.java)|
-[面试题 01.01. 判定字符是否唯一](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo47.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo47.java)|
-[面试题 01.02. 判定是否互为字符重排](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo100.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo100.java)|
-[面试题 01.06. 字符串压缩](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo66.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo66.java)|
-[面试题 01.09. 字符串轮转](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo71.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo71.java)|
-[面试题 16.01. 交换数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo42.java)|🟨|[☕](Text_likou/src/com/xzqn/likou3/demo42.java)|
-[面试题 17.04. 消失的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo48.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo48.java)|
-[面试题 17.10. 主要元素](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo46.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo46.java)|
+[剑指 Offer 03. 数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo28.java)|
+[剑指 Offer II 004. 只出现一次的数字](https://leetcode.cn/problems/WGki4K/)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo92.java)|
+[剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo86.java)|
+[剑指 Offer 16. 数值的整数次方](https://leetcode.cn/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo93.java)|
+[剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo83.java)|
+[剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo95.java)|
+[剑指 Offer 64. 求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof/)|🟨|[☕](Text_likou/src/com/xzqn/likou3/demo58.java)|
+[面试题 01.01. 判定字符是否唯一](https://leetcode.cn/problems/is-unique-lcci/)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo47.java)|
+[面试题 01.02. 判定是否互为字符重排](https://leetcode.cn/problems/check-permutation-lcci/)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo100.java)|
+[面试题 01.06. 字符串压缩](https://leetcode.cn/problems/compress-string-lcci/)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo66.java)|
+[面试题 01.09. 字符串轮转](https://leetcode.cn/problems/string-rotation-lcci/)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo71.java)|
+[面试题 16.01. 交换数字](https://leetcode.cn/problems/swap-numbers-lcci/)|🟨|[☕](Text_likou/src/com/xzqn/likou3/demo42.java)|
+[面试题 17.04. 消失的数字](https://leetcode.cn/problems/missing-number-lcci/)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo48.java)|
+[面试题 17.10. 主要元素](https://leetcode.cn/problems/find-majority-element-lcci/)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo46.java)|
 [LC. 实现 strStr()](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo41.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo41.java)|
-[LC. 两数之和 II - 输入有序数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo32.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo32.java)|
 [LC. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo27.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo27.java)|
-[LCP 01. 猜数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo37.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo37.java)|
+[LCP 01. 猜数字](https://leetcode.cn/problems/guess-numbers/)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo37.java)|
