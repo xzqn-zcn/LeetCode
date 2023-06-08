@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：110
-> - 🟩 79
+> 全部题目：111
+> - 🟩 80
 > - 🟨 29
 > - 🟥 2
 
@@ -10,6 +10,7 @@
 [1. 两数之和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo135.java)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo135.java)|
 [3. 无重复字符的最长子串](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo68.java)|🟨|[☕](Text_likou/src/com/xzqn/likou4/demo68.java)|
 [11. 盛最多水的容器](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo85.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo85.java)|
+[20. 有效的括号](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo20.java)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo20.java)|
 [33. 搜索旋转排序数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo90.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo90.java)|
 [41. 缺失的第一个正数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo80.java)|🟥|[☕](Text_likou/src/com/xzqn/likou4/demo80.java)|
 [53. 最大子数组和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo51.java)|🟨|[☕](Text_likou/src/com/xzqn/likou3/demo51.java)|
