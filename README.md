@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：116
-> - 🟩 85
+> 全部题目：117
+> - 🟩 86
 > - 🟨 29
 > - 🟥 2
 
@@ -39,6 +39,7 @@
 [287. 寻找重复数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo31.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo31.java)|
 [326. 3 的幂](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo18.java)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo18.java)|
 [342. 4的幂](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo106.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo106.java)|
+[344. 反转字符串](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo14.java)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo14.java)|
 [345. 反转字符串中的元音字母](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo78.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo78.java)|
 [349. 两个数组的交集](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo24.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo24.java)|
 [367. 有效的完全平方数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo22.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo22.java)|
