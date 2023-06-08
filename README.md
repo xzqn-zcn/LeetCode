@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：103
-> - 🟩 75
+> 全部题目：104
+> - 🟩 76
 > - 🟨 27
 > - 🟥 1
 
@@ -109,4 +109,5 @@
 [面试题 17.10. 主要元素](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo46.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo46.java)|
 [LC. 实现 strStr()](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo41.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo41.java)|
 [LC. 两数之和 II - 输入有序数组](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo32.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo32.java)|
+[LC. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo27.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo27.java)|
 [LCP 01. 猜数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo37.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo37.java)|
