@@ -1,8 +1,8 @@
 # LeetCode
 # 解决方案
-> 全部题目：127
+> 全部题目：128
 > - 🟩 93
-> - 🟨 31
+> - 🟨 32
 > - 🟥 3
 
 |题目|难度|解答|
@@ -96,6 +96,7 @@
 [2348. 全 0 子数组的数目](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo125.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo125.java)|
 [2351. 第一个出现两次的字母](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo64.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo64.java)|
 [2352. 相等行列对](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo134.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo134.java)|
+[2396. 严格回文的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo1.java)|🟨|[☕](Text_likou/src/com/xzqn/likou/demo1.java)|
 [2414. 最长的字母序连续子字符串的长度](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou7/demo127.java)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo127.java)|
 [2418. 按身高排序](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo33.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo33.java)|
 [2427. 公因子的数目](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo59.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo59.java)|
