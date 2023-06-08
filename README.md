@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：119
-> - 🟩 87
+> 全部题目：120
+> - 🟩 88
 > - 🟨 30
 > - 🟥 2
 
@@ -38,6 +38,7 @@
 [258. 各位相加](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo96.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo96.java)|
 [263. 丑数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo77.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo77.java)|
 [268. 丢失的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo50.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo50.java)|
+[283. 移动零](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo9.java)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo9.java)|
 [287. 寻找重复数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo31.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo31.java)|
 [326. 3 的幂](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou/demo18.java)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo18.java)|
 [342. 4的幂](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo106.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo106.java)|
