@@ -1,8 +1,8 @@
 # LeetCode
 # 解决方案
-> 全部题目：130
-> - 🟩 93
-> - 🟨 34
+> 全部题目：129
+> - 🟩 91
+> - 🟨 35
 > - 🟥 3
 
 |题目|难度|解答|
@@ -135,5 +135,4 @@
 [面试题 17.04. 消失的数字](https://leetcode.cn/problems/missing-number-lcci/)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo48.java)|
 [面试题 17.10. 主要元素](https://leetcode.cn/problems/find-majority-element-lcci/)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo46.java)|
 [LC. 实现 strStr()](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo41.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo41.java)|
-[LC. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo27.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo27.java)|
 [LCP 01. 猜数字](https://leetcode.cn/problems/guess-numbers/)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo37.java)|
