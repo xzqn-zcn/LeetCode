@@ -3,8 +3,9 @@ package com.xzqn.likou2;
 import java.util.*;
 
 public class demo24 {
-    /*给定两个数组 nums1 和 nums2 ，返回 它们的交集 。输出结果中的每个元素一定是 唯一 的。我们可以 不考虑输出结果的顺序 。
-
+    /*
+    349. 两个数组的交集
+    给定两个数组 nums1 和 nums2 ，返回 它们的交集 。输出结果中的每个元素一定是 唯一 的。我们可以 不考虑输出结果的顺序 。
      */
     public static void main(String[] args) {
         int[] nums1 = {1, 2, 2, 1};

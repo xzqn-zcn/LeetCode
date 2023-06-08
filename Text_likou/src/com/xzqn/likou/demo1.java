@@ -1,7 +1,7 @@
 package com.xzqn.likou;
 
 public class demo1 {
-    //严格回文数
+    //2396. 严格回文的数字
     //直接返回false即可，不用判断，没有能达成条件的数字
     public static void main(String[] args) {
 
