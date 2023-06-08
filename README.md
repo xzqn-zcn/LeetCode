@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：90
-> - 🟩 62
+> 全部题目：91
+> - 🟩 63
 > - 🟨 27
 > - 🟥 1
 
@@ -20,6 +20,7 @@
 [204. 计数质数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo91.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo91.java)|
 [215. 数组中的第K个最大元素](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo84.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo84.java)|
 [231. 2 的幂](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo53.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo53.java)|
+[242. 有效的字母异位词](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo40.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo40.java)|
 [258. 各位相加](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo96.java)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo96.java)|
 [263. 丑数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo77.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo77.java)|
 [268. 丢失的数字](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo50.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo50.java)|
