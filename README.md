@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：109
-> - 🟩 78
+> 全部题目：110
+> - 🟩 79
 > - 🟨 29
 > - 🟥 2
 
@@ -42,6 +42,7 @@
 [509. 斐波那契数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo101.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo101.java)|
 [605. 种花问题](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo76.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo76.java)|
 [921. 使括号有效的最少添加](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo118.java)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo118.java)|
+[977. 有序数组的平方](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou2/demo21.java)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo21.java)|
 [1010. 总持续时间可被 60 整除的歌曲](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo67.java)|🟨|[☕](Text_likou/src/com/xzqn/likou4/demo67.java)|
 [1137. 第 N 个泰波那契数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou6/demo102.java)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo102.java)|
 [1207. 独一无二的出现次数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo73.java)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo73.java)|
