@@ -1,8 +1,8 @@
 # LeetCode
 # 解决方案
-> 全部题目：86
+> 全部题目：87
 > - 🟩 60
-> - 🟨 25
+> - 🟨 26
 > - 🟥 1
 
 |题目|难度|解答|
@@ -14,6 +14,7 @@
 [41. 缺失的第一个正数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou4/demo80.java)|🟥|[☕](Text_likou/src/com/xzqn/likou4/demo80.java)|
 [53. 最大子数组和](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo51.java)|🟨|[☕](Text_likou/src/com/xzqn/likou3/demo51.java)|
 [70. 爬楼梯](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo45.java)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo45.java)|
+[75. 颜色分类](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou3/demo44.java)|🟨|[☕](Text_likou/src/com/xzqn/likou3/demo44.java)|
 [80. 删除有序数组中的重复项 II](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo82.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo82.java)|
 [204. 计数质数](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo91.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo91.java)|
 [215. 数组中的第K个最大元素](https://github.com/xzqn-zcn/LeetCode/blob/master/Text_likou/src/com/xzqn/likou5/demo84.java)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo84.java)|
