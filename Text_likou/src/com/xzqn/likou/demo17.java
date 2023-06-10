@@ -1,7 +1,5 @@
 package com.xzqn.likou;
 
-import java.util.Arrays;
-
 public class demo17 {
     /*
     136. 只出现一次的数字
