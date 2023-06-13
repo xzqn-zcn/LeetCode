@@ -111,6 +111,7 @@
 [2455. 可被三整除的偶数的平均值](https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo97.java)|
 [2460. 对数组执行操作](https://leetcode.cn/problems/apply-operations-to-an-array/)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo133.java)|
 [2465. 不同的平均值数目](https://leetcode.cn/problems/number-of-distinct-averages/)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo131.java)|
+[2475. 数组中不等三元组的数目](https://leetcode.cn/problems/number-of-unequal-triplets-in-array/)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo139.java)|
 [2520. 统计能整除数字的位数](https://leetcode.cn/problems/count-the-digits-that-divide-a-number/)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo105.java)|
 [2540. 最小公共值](https://leetcode.cn/problems/minimum-common-value/)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo103.java)|
 [2544. 交替数字和](https://leetcode.cn/problems/alternating-digit-sum/)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo104.java)|
