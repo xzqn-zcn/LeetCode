@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：130
-> - 🟩 92
+> 全部题目：131
+> - 🟩 93
 > - 🟨 35
 > - 🟥 3
 
@@ -64,6 +64,7 @@
 [1010. 总持续时间可被 60 整除的歌曲](https://leetcode.cn/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|🟨|[☕](Text_likou/src/com/xzqn/likou4/demo67.java)|
 [1108. IP 地址无效化](https://leetcode.cn/problems/defanging-an-ip-address/)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo7.java)|
 [1137. 第 N 个泰波那契数](https://leetcode.cn/problems/n-th-tribonacci-number/)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo102.java)|
+[1154. 一年中的第几天](https://leetcode.cn/problems/day-of-the-year/description/)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo138.java)|
 [1207. 独一无二的出现次数](https://leetcode.cn/problems/unique-number-of-occurrences/)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo73.java)|
 [1221. 分割平衡字符串](https://leetcode.cn/problems/split-a-string-in-balanced-strings/)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo52.java)|
 [1281. 整数的各位积和之差](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo115.java)|
