@@ -1,8 +1,8 @@
 # LeetCode
 # 解决方案
-> 全部题目：132
+> 全部题目：133
 > - 🟩 94
-> - 🟨 35
+> - 🟨 36
 > - 🟥 3
 
 |题目|难度|解答|
@@ -71,6 +71,7 @@
 [1295. 统计位数为偶数的数字](https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo113.java)|
 [1324. 竖直打印单词](https://leetcode.cn/problems/print-words-vertically/)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo121.java)|
 [1351. 统计有序矩阵中的负数](https://leetcode.cn/problems/count-negative-numbers-in-a-sorted-matrix/)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo112.java)|
+[1375. 二进制字符串前缀一致的次数](https://leetcode.cn/problems/number-of-times-binary-string-is-prefix-aligned/)|🟨|[☕](Text_likou/src/com/xzqn/likou7/demo140.java)|
 [1394. 找出数组中的幸运数](https://leetcode.cn/problems/find-lucky-integer-in-an-array/)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo107.java)|
 [1431. 拥有最多糖果的孩子](https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/)|🟩|[☕](Text_likou/src/com/xzqn/likou4/demo74.java)|
 [1441. 用栈操作构建数组](https://leetcode.cn/problems/build-an-array-with-stack-operations/)|🟨|[☕](Text_likou/src/com/xzqn/likou6/demo117.java)|
