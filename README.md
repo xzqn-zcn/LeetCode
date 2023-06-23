@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：134
-> - 🟩 95
+> 全部题目：135
+> - 🟩 96
 > - 🟨 36
 > - 🟥 3
 
@@ -114,6 +114,7 @@
 [2465. 不同的平均值数目](https://leetcode.cn/problems/number-of-distinct-averages/)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo131.java)|
 [2475. 数组中不等三元组的数目](https://leetcode.cn/problems/number-of-unequal-triplets-in-array/)|🟩|[☕](Text_likou/src/com/xzqn/likou7/demo139.java)|
 [2481. 分割圆的最少切割次数](https://leetcode.cn/problems/minimum-cuts-to-divide-a-circle/)|🟩|[☕](Text_likou/src/com/xzqn/likou8/demo141.java)|
+[2496. 数组中字符串的最大值](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/description/)|🟩|[☕](Text_likou/src/com/xzqn/likou8/demo142.java)|
 [2520. 统计能整除数字的位数](https://leetcode.cn/problems/count-the-digits-that-divide-a-number/)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo105.java)|
 [2540. 最小公共值](https://leetcode.cn/problems/minimum-common-value/)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo103.java)|
 [2544. 交替数字和](https://leetcode.cn/problems/alternating-digit-sum/)|🟩|[☕](Text_likou/src/com/xzqn/likou6/demo104.java)|
