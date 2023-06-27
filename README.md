@@ -1,7 +1,7 @@
 # LeetCode
 # 解决方案
-> 全部题目：135
-> - 🟩 96
+> 全部题目：136
+> - 🟩 97
 > - 🟨 36
 > - 🟥 3
 
@@ -130,6 +130,7 @@
 [剑指 Offer II 004. 只出现一次的数字](https://leetcode.cn/problems/WGki4K/)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo92.java)|
 [剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo86.java)|
 [剑指 Offer 16. 数值的整数次方](https://leetcode.cn/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)|🟨|[☕](Text_likou/src/com/xzqn/likou5/demo93.java)|
+[剑指 Offer 50. 第一个只出现一次的字符](https://leetcode.cn/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/description/)|🟩|[☕](Text_likou/src/com/xzqn/likou8/demo143.java)|
 [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo83.java)|
 [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/)|🟩|[☕](Text_likou/src/com/xzqn/likou5/demo95.java)|
 [剑指 Offer 64. 求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof/)|🟨|[☕](Text_likou/src/com/xzqn/likou3/demo58.java)|
