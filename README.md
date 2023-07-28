@@ -1,8 +1,8 @@
 # LeetCode
 # 解决方案
-> 全部题目：137
+> 全部题目：138
 > - 🟩 98
-> - 🟨 36
+> - 🟨 37
 > - 🟥 3
 
 |题目|难度|解答|
@@ -20,6 +20,7 @@
 [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)|🟨|[☕](Text_likou/src/com/xzqn/likou/demo5.java)|
 [41. 缺失的第一个正数](https://leetcode.cn/problems/first-missing-positive/)|🟥|[☕](Text_likou/src/com/xzqn/likou4/demo80.java)|
 [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/)|🟨|[☕](Text_likou/src/com/xzqn/likou3/demo51.java)|
+[55. 跳跃游戏](https://leetcode.cn/problems/jump-game/)|🟨|[☕](Text_likou/src/com/xzqn/likou8/Demo146.java)|
 [58. 最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/)|🟩|[☕](Text_likou/src/com/xzqn/likou2/demo36.java)|
 [66. 加一](https://leetcode.cn/problems/plus-one/)|🟩|[☕](Text_likou/src/com/xzqn/likou/demo19.java)|
 [70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/)|🟩|[☕](Text_likou/src/com/xzqn/likou3/demo45.java)|
