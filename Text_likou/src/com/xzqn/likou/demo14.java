@@ -1,7 +1,8 @@
 package com.xzqn.likou;
 
-import java.util.Arrays;
-
+/**
+ * @author 小镇青年
+ */
 public class demo14 {
     /*
     344. 反转字符串
@@ -14,16 +15,16 @@ public class demo14 {
     著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。*/
 
     public static void main(String[] args) {
-        char[] s = {};
+        char[] s = {'a', 'b' ,'c' };
         reverseString(s);
+        System.out.println(s);
     }
 
     public static void reverseString(char[] s) {
-        char a;
         for (int i = 0, j = s.length - 1; i < j; i++, j--) {
-            a = s[i];
-            s[i] = s[j];
-            s[j] = a;
+            s[i] = (char) (s[i] ^ s[j]);
+            s[j] = (char) (s[i] ^ s[j]);
+            s[i] = (char) (s[i] ^ s[j]);
         }
     }
 }
